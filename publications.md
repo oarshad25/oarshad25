@@ -1,6 +1,8 @@
 # Journal Articles
 
-* Levitin, M.O., L.E. Rawlins, G. Sanchez-Andrade, **O.A. Arshad**, S.C. Collins, S.J. Sawiak, P.H. Iffland, M.H. Andersson, C. Bupp, E.L Cambridge et al. [Models of KPTN-related disorder implicate mTOR signalling in cognitive and overgrowth phenotypes](https://doi.org/10.1093/brain/awad231). *Brain*, vol 146, no. 11, pp. 4766-4783, 2023.
+* McDermott, J.E., J.M. Jacobs, N.J. Merrill, H.D. Mitchell, **O.A. Arshad**, R. McClure, J. Teeguarden, R.P. Gajula, K.I. Porter, B.C. Satterfield et al. [Molecular-level dysregulation of insulin pathways and inflammatory processes in peripheral blood mononuclear cells by circadian misalignment](https://doi.org/10.1021/acs.jproteome.3c00418). *Journal of Proteome Research*, vol. 23, no. 5,pp. 1547-1548, 2024.
+
+* Levitin, M.O., L.E. Rawlins, G. Sanchez-Andrade, **O.A. Arshad**, S.C. Collins, S.J. Sawiak, P.H. Iffland, M.H. Andersson, C. Bupp, E.L. Cambridge et al. [Models of KPTN-related disorder implicate mTOR signalling in cognitive and overgrowth phenotypes](https://doi.org/10.1093/brain/awad231). *Brain*, vol 146, no. 11, pp. 4766-4783, 2023.
 
 * Neaverson, A., M.H. Andersson, **O.A. Arshad**, L. Foulser, M. Goodwin-Trotman, A. Hunter, B. Newman, M. Patel, C. Roth, T. Thwaites et al.   [Differentiation of human induced pluripotent stem cells into cortical neural stem cells](https://doi.org/10.3389/fcell.2022.1023340). *Frontiers in Cell and Developmental Biology*, 2023.
 
